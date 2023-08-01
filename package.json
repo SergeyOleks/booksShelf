@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "booksShelf",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Tatiana2016.github.io/final-js",
+  "homepage": "https://SergeyOleks.github.io/booksShelf",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /final-js/"
+    "build": "parcel build src/*.html --public-url /booksShelf/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/SergeyOleks/booksShelf"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Serhii Oleksiienko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/SergeyOleks/booksShelf/issues"
   },
   "dependencies": {
     "axios": "^1.4.0",
